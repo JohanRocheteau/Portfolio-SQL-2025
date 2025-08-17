@@ -1,5 +1,3 @@
-# portfolio-sql-2025
-
 # Portfolio SQL 2025 – Niveau Junior + Notions Avancées
 
 Ce dépôt rassemble mon travail personnel de révision et d'entraînement SQL mené en 2025.  
