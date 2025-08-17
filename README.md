@@ -19,7 +19,7 @@ En recherche d’un poste de Data Analyst Junior, j’ai voulu structurer mon ap
 ## Structure du dépôt
 
 ```
-portfolio-sql-2025/
+Portfolio-SQL-2025/
 ├── 1 - Chinook - SQL Junior/
 ├── 2 - Northwind - SQL Intermédiaire/
 └── 3 - Sakila - Étude de cas Analyste Junior/
