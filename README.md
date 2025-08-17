@@ -67,5 +67,5 @@ Le dernier notebook contient une étude de cas structurée :
 
 Ce projet est personnel et évolutif.
 
-📧 [Mon Mail](johan.rocheteau@hotmail.fr) 
-🔗 [Mon LinkedIn](https://www.linkedin.com/in/johanrocheteau)
+📧 johan.rocheteau@hotmail.fr
+🔗 https://www.linkedin.com/in/johanrocheteau
